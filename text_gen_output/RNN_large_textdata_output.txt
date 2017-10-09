@@ -1,15 +1,45 @@
 -------------------
 input chars = 
+s eyes she eclipses and predominates the whole of her sex. it was not that he felt any emotion akin "
+predicted chars = 
+the reself of scintry with his lat strong at the corner of the coroner of a grian for in the matter."
+-------------------
+input chars = 
+eyes she eclipses and predominates the whole of her sex. it was not that he felt any emotion akin to"
+predicted chars = 
+ from and it.  a som a sime and to be an off ith such seeps to be ammore that i have not in the hone"
+-------------------
+input chars = 
 e eclipses and predominates the whole of her sex. it was not that he felt any emotion akin to love f"
 predicted chars = 
-or a claad of the carige. is no doubt that i may groute, and sourne, he said, and where the case upo"
+rom the bell of his day, for he is a purtlemand, and in the corner of the coring of a were for what "
 -------------------
 input chars = 
- difficulties, if you are to understand the situation. i am following you closely, i answered. i was"
+ates the whole of her sex. it was not that he felt any emotion akin to love for irene adler. all emo"
 predicted chars = 
- weakn of their. weyen he come to see me what i was ally unow that there was no some allosing a smal"
+ne in the corner of the corners of a grian which i was everysed i well be before it we are so right,"
 -------------------
 input chars = 
-notice the carriage go up any. come, cried the inspector, laughing; its a very pretty diversity of o"
+n to love for irene adler. all emotions, and that one particularly, were abhorrent to his cold, prec"
 predicted chars = 
-thers. and the evering a small bearine it allars where are remarked hor had been day no tonsing that"
+omestent an all the said of must be should be a companser ined as a bristly of bring in the deep and"
+-------------------
+input chars = 
+ to love for irene adler. all emotions, and that one particularly, were abhorrent to his cold, preci"
+predicted chars = 
+mely untin at the door and the had been sen of respection of his froughed so that i was a conturled "
+-------------------
+input chars = 
+aced himself in a false position. he never spoke of the softer passions, save with a gibe and a snee"
+predicted chars = 
+ that i was eaction of his brown lit le st. simon a came the strage before i have no done.   holmes "
+-------------------
+input chars = 
+ting factor which might throw a doubt upon all his mental results. grit in a sensitive instrument, o"
+predicted chars = 
+r evering to see her un the engeroon of the wills were drovently and in the case of the came it aste"
+-------------------
+input chars = 
+ler, of dubious and questionable memory. i had seen little of holmes lately. my marriage had drifted"
+predicted chars = 
+ up to the more st. simon who were in the promminition streets and the can be of do do arriss that i"
